@@ -9,7 +9,3 @@ age,bmi,smoker,exercise_mins,systolic_bp,risk
 55,30.5,1,15,155,1
 49,32.0,1,5,165,1
 33,23.1,0,50,115,0
-
-#smoker: 0 = non-smoker, 1 = smoker
-
-#risk: 0 = low risk, 1 = high risk
